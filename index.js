@@ -8,7 +8,7 @@ console.log(process.env.DB_PASSWORD);
 
 console.log(new Date());
 
-for(let i =0; i < 10; 1++){
+for(let i =0; i < 10; i++){
  console.log(i);
 }
 
